@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paurussy502" alt="paurussy502" /></a> </p>
 
-- My Website [paurussy502.github.io](paurussy502.github.io)
+- My Website [https://paurussy502.github.io](paurussy502.github.io)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
