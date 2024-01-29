@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Russy</h1>
+<h1 align="center">Hi, I'm RU$$Y</h1>
 <h3 align="center">A passionate pentester/forense learner</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paurussy502" alt="paurussy502" /></a> </p>
