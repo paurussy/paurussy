@@ -5,7 +5,8 @@
 
 | Project | Language | Description |
 |---------|----------|-------------|
-| Upload to Discord | PowerShell | Upload a file and/or text on Discord WebHook
+| <p align="center"><a href="https://paurussy502.github.io/">Personal Website</a></p> | HTML CSS JS | Web Interactive Terminal / Last CVE Report / Cybersecurity News |
+| <p align="center"><a href="https://github.com/PauRussy502/PowerShell-Functions.git">Powershell Functions</a></p> | PowerShell | Offensive / Productive Functions |
 
 </div><br>
 
