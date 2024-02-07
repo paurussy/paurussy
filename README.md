@@ -10,8 +10,8 @@
 
 </div><br>
 
-<div align="center" style="border-radius:10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paurussy502&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="paurussy502"></div><br>
+<div align="center" style="border-radius:10px;"><img align="center" onclick="" href="" src="https://github-readme-stats.vercel.app/api/top-langs?username=paurussy502&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="paurussy502"></div><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paurussy502&theme=react-dark&hide_border=true)](#)
+[![Push Graph](https://github-readme-activity-graph.vercel.app/graph?username=paurussy502&theme=react-dark&hide_border=true)](#)
 
 <p align="center"><a href="https://paurussy502.github.io">paurussy502.github.io</a></p>
