@@ -7,6 +7,7 @@
 |---------|----------|-------------|
 | <p align="center"><a href="https://paurussy502.github.io/">Personal Website</a></p> | HTML CSS JS | Web Interactive Terminal / Last CVE Report / Cybersecurity News |
 | <p align="center"><a href="https://github.com/PauRussy502/PowerShell-Functions.git">Powershell Functions</a></p> | PowerShell | Offensive / Productive Functions |
+| <p align="center"><a href="https://github.com/PauRussy502/business-news-website.git">Business News WEBSITE</a></p> | HTML CSS JS | Breaking Business News |
 
 </div><br>
 
