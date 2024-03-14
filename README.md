@@ -11,8 +11,12 @@
 
 </div><br>
 
+<div align="center">
 <div align="center" style="border-radius:10px;"><img align="center" onclick="" href="" src="https://github-readme-stats.vercel.app/api/top-langs?username=paurussy502&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="paurussy502"></div><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paurussy502&theme=tokyonight" alt="mystreak"/> </div><br>
+
 
 [![Push Graph](https://github-readme-activity-graph.vercel.app/graph?username=paurussy502&theme=react-dark&hide_border=true)](#)
 
 <p align="center"><a href="https://paurussy502.github.io">paurussy502.github.io</a></p>
+
