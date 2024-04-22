@@ -14,7 +14,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=paurussy&theme=tokyonight" alt="mystreak"/> </div><br>
 
 
-[![Push Graph](https://github-readme-activity-graph.vercel.app/graph?username=paurussy502&theme=react-dark&hide_border=true)](#)
+[![Push Graph](https://github-readme-activity-graph.vercel.app/graph?username=paurussy&theme=react-dark&hide_border=true)](#)
 
 <p align="center"><a href="https://paurussy502.github.io">paurussy502.github.io</a></p>
 
